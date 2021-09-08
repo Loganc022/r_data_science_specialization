@@ -1,3 +1,8 @@
+The data set has been adapted from the data given at the end of this book.  The feature labels file has been updated to use full word descriptions for each column and all data that isn't a mean or stdev have been omitted from the final output.
+
+The data is merged by subject and activity to give a summary of each feature.
+
+Original Data Set Codebook:
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
